@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    creator="Graphhopper version 1bc971e3baabca802272b0f011cd5dc1ad40674e" version="1.1"
+    xmlns:gh="https://graphhopper.com/public/schema/gpx/1.1">
+        <metadata>
+            <copyright author="OpenStreetMap contributors" />
+            <link href="http://graphhopper.com"><text>GraphHopper GPX</text></link><time>2021-05-16T09:18:21Z</time>
+        </metadata>
+        <wpt lat="43.872872" lon="7.006053">
+            <name>Pont de France, D 1</name>
+        </wpt>
+        <wpt lat="43.866868" lon="7.005318">
+            <name>Wegpunkt 1</name>
+        </wpt>
+        <wpt lat="43.85156" lon="6.994159">
+            <name>Wegpunkt 2</name>
+        </wpt>
+        <wpt lat="43.844148" lon="7.026103">
+            <name>Wegpunkt 3</name>
+        </wpt>
+        <wpt lat="43.839726" lon="7.087105">
+            <name>Wegpunkt 4</name>
+        </wpt>
+        <wpt lat="43.844014" lon="6.993187">
+            <name>Wegpunkt 5</name>
+        </wpt>
+        <wpt lat="43.84992" lon="6.967713">
+            <name>Wegpunkt 6</name>
+        </wpt>
+        <wpt lat="43.872797" lon="7.006035">
+            <name>Ziel erreicht</name>
+        </wpt>
+<rte>
+<rtept lat="43.872872" lon="7.006053"><desc>dem Straßenverlauf von Pont de France, D 1 folgen</desc><extensions><gh:distance>33.3</gh:distance><gh:time>23975</gh:time><gh:direction>S</gh:direction><gh:azimuth>190.1</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.872577" lon="7.00598"><desc>links abbiegen auf Rue Maurice-Fortune Raybaud, D 1</desc><extensions><gh:distance>532.8</gh:distance><gh:time>383627</gh:time><gh:direction>SE</gh:direction><gh:azimuth>138.94</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.868384" lon="7.004683"><extensions><gh:distance>187.7</gh:distance><gh:time>135115</gh:time><gh:direction>S</gh:direction><gh:azimuth>191.45</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="43.866868" lon="7.005318"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="43.866868" lon="7.005318"><extensions><gh:distance>1258.9</gh:distance><gh:time>906442</gh:time><gh:direction>S</gh:direction><gh:azimuth>193.06</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.862048" lon="7.01318"><extensions><gh:distance>1773.1</gh:distance><gh:time>1276660</gh:time><gh:direction>S</gh:direction><gh:azimuth>198.57</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="43.860539" lon="7.002939"><extensions><gh:distance>9.6</gh:distance><gh:time>6882</gh:time><gh:direction>W</gh:direction><gh:azimuth>291.99</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="43.860524" lon="7.002839"><extensions><gh:distance>1662.7</gh:distance><gh:time>1197125</gh:time><gh:direction>S</gh:direction><gh:azimuth>174.58</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.85156" lon="6.994159"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="43.85156" lon="6.994159"><extensions><gh:distance>2008.2</gh:distance><gh:time>1445901</gh:time><gh:direction>W</gh:direction><gh:azimuth>253.36</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.845889" lon="6.993276"><extensions><gh:distance>3356.6</gh:distance><gh:time>2416771</gh:time><gh:direction>E</gh:direction><gh:azimuth>74.75</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.844148" lon="7.026103"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="43.844148" lon="7.026103"><extensions><gh:distance>75.5</gh:distance><gh:time>54378</gh:time><gh:direction>N</gh:direction><gh:azimuth>22.25</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.844358" lon="7.026881"><desc>scharf rechts abbiegen auf D 1</desc><extensions><gh:distance>2044.7</gh:distance><gh:time>1472196</gh:time><gh:direction>SW</gh:direction><gh:azimuth>228.31</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="43.842411" lon="7.048933"><desc>links abbiegen auf Rue des Anciens Combattants, D 501</desc><extensions><gh:distance>27.7</gh:distance><gh:time>19951</gh:time><gh:direction>N</gh:direction><gh:azimuth>21.19</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.842647" lon="7.048913"><extensions><gh:distance>50.5</gh:distance><gh:time>47867</gh:time><gh:direction>E</gh:direction><gh:azimuth>80.8</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="43.842912" lon="7.049158"><extensions><gh:distance>68.0</gh:distance><gh:time>48937</gh:time><gh:direction>S</gh:direction><gh:azimuth>158.46</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="43.842836" lon="7.049485"><extensions><gh:distance>3604.9</gh:distance><gh:time>2595502</gh:time><gh:direction>NE</gh:direction><gh:azimuth>24.64</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="43.840104" lon="7.087352"><desc>scharf rechts abbiegen auf Route des Ferres, D 1</desc><extensions><gh:distance>190.4</gh:distance><gh:time>137083</gh:time><gh:direction>W</gh:direction><gh:azimuth>277.03</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="43.840229" lon="7.085049"><extensions><gh:distance>198.4</gh:distance><gh:time>142829</gh:time><gh:direction>SW</gh:direction><gh:azimuth>211.01</gh:azimuth><gh:sign>-3</gh:sign></extensions></rtept>
+<rtept lat="43.839726" lon="7.087105"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="43.839726" lon="7.087105"><extensions><gh:distance>3854.3</gh:distance><gh:time>2775098</gh:time><gh:direction>E</gh:direction><gh:azimuth>104.68</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.836108" lon="7.051286"><extensions><gh:distance>1081.7</gh:distance><gh:time>778792</gh:time><gh:direction>W</gh:direction><gh:azimuth>275.59</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="43.837304" lon="7.038098"><extensions><gh:distance>3920.2</gh:distance><gh:time>2822554</gh:time><gh:direction>W</gh:direction><gh:azimuth>274.38</gh:azimuth><gh:sign>7</gh:sign></extensions></rtept>
+<rtept lat="43.844014" lon="6.993187"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="43.844014" lon="6.993187"><extensions><gh:distance>77.8</gh:distance><gh:time>56010</gh:time><gh:direction>W</gh:direction><gh:azimuth>264.99</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.844193" lon="6.992307"><extensions><gh:distance>54.4</gh:distance><gh:time>39162</gh:time><gh:direction>SW</gh:direction><gh:azimuth>229.78</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.843843" lon="6.991838"><extensions><gh:distance>258.9</gh:distance><gh:time>186377</gh:time><gh:direction>W</gh:direction><gh:azimuth>279.76</gh:azimuth><gh:sign>2</gh:sign></extensions></rtept>
+<rtept lat="43.843503" lon="6.990053"><extensions><gh:distance>1927.5</gh:distance><gh:time>1387824</gh:time><gh:direction>NW</gh:direction><gh:azimuth>308.27</gh:azimuth><gh:sign>1</gh:sign></extensions></rtept>
+<rtept lat="43.846031" lon="6.973045"><extensions><gh:distance>936.5</gh:distance><gh:time>674281</gh:time><gh:direction>N</gh:direction><gh:azimuth>345.32</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="43.848934" lon="6.9681"><extensions><gh:distance>115.7</gh:distance><gh:time>83289</gh:time><gh:direction>N</gh:direction><gh:azimuth>337.95</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="43.84992" lon="6.967713"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:direction>E</gh:direction><gh:azimuth>90.0</gh:azimuth><gh:sign>5</gh:sign></extensions></rtept>
+<rtept lat="43.84992" lon="6.967713"><extensions><gh:distance>2989.6</gh:distance><gh:time>2152496</gh:time><gh:direction>NW</gh:direction><gh:azimuth>332.0</gh:azimuth><gh:sign>0</gh:sign></extensions></rtept>
+<rtept lat="43.863289" lon="6.964116"><extensions><gh:distance>2308.7</gh:distance><gh:time>1662240</gh:time><gh:direction>E</gh:direction><gh:azimuth>85.54</gh:azimuth><gh:sign>3</gh:sign></extensions></rtept>
+<rtept lat="43.869018" lon="6.985849"><extensions><gh:distance>84.3</gh:distance><gh:time>60702</gh:time><gh:direction>N</gh:direction><gh:azimuth>355.95</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.869261" lon="6.985882"><extensions><gh:distance>70.6</gh:distance><gh:time>50821</gh:time><gh:direction>N</gh:direction><gh:azimuth>350.31</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.869489" lon="6.986337"><desc>leicht links abbiegen auf Route de l'Iscle</desc><extensions><gh:distance>1890.7</gh:distance><gh:time>1361289</gh:time><gh:direction>N</gh:direction><gh:azimuth>2.52</gh:azimuth><gh:sign>-1</gh:sign></extensions></rtept>
+<rtept lat="43.872554" lon="7.004535"><desc>links halten auf Route de l'Iscle</desc><extensions><gh:distance>119.7</gh:distance><gh:time>86168</gh:time><gh:direction>E</gh:direction><gh:azimuth>104.3</gh:azimuth><gh:sign>-7</gh:sign></extensions></rtept>
+<rtept lat="43.872577" lon="7.00598"><desc>links abbiegen auf Pont de France, D 1</desc><extensions><gh:distance>24.8</gh:distance><gh:time>17888</gh:time><gh:direction>N</gh:direction><gh:azimuth>10.1</gh:azimuth><gh:sign>-2</gh:sign></extensions></rtept>
+<rtept lat="43.872797" lon="7.006035"><extensions><gh:distance>0.0</gh:distance><gh:time>0</gh:time><gh:sign>4</gh:sign></extensions></rtept>
+</rte>
+    </gpx>

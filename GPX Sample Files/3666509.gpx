@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="AlpineQuest 2.2.8c" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://www.alpinequest.net" />
+    <time>2021-05-11T00:11:32Z</time>
+  </metadata>
+  <trk>
+    <name>은자산  미테오로</name>
+    <trkseg>
+      <trkpt lat="36.538305" lon="128.0536919">
+        <ele>161.1</ele>
+        <time>2021-03-28T05:56:40Z</time>
+      </trkpt>
+      <trkpt lat="36.5383225" lon="128.053703">
+        <ele>160.8</ele>
+        <time>2021-03-28T05:57:00Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
