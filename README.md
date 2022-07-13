@@ -1,5 +1,6 @@
 # gpxtogjsonmap
 Startpunkt: GPX-Datei
+
 Ziel: Konvertierung in GeoJSON (+ Website bzw. Kartendarstellung mit Zusatzinformationen)
 
 Used: Vue, Vue-Bootstrap, Vue-Leaflet, Vue-Router
