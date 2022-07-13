@@ -5,7 +5,8 @@ Ziel: Konvertierung in GeoJSON (+ Website bzw. Kartendarstellung mit Zusatzinfor
 
 Used: Vue, Vue-Bootstrap, Vue-Leaflet, Vue-Router
 
-https://zvexhalproject.github.io/gpxtogjsonmap/
+https://zvexhalproject.github.io/gpxtogjsonmap
+
 Files can be found in the gpx-sample folder.
 Any additional information (Powerpoint/pdf-presentation) with more information only on request.
 
